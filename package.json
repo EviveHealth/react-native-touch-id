@@ -1,6 +1,6 @@
 {
-  "name": "react-native-touch-id",
-  "version": "4.1.0",
+  "name": "react-native-touch-id-ev",
+  "version": "4.1.1",
   "description": "React Native authentication with the native Touch ID popup.",
   "scripts": {
     "lint": "node_modules/.bin/eslint .",
@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/naoufal/react-native-touch-id.git"
   },
+  "registry": "http://mac-build-server.dev.evivehealth.com:4000/",
   "keywords": [
     "react-native",
     "react",
